@@ -1,0 +1,15 @@
+{
+    "tenant":"租戶",
+    "corporation":"集團",
+    "company":"公司",
+    "companyName":"公司名稱",
+    "company-description":"公司敘述",
+    "belong-corporation":"所屬集團",
+    "channelType":"渠道類型",
+    "line-setting":"Line相關設定",
+    "admin-account":"後台管理者帳號",
+    "admin-password":"後台管理者密碼",
+    "admin-email":"後台管理者信箱",
+    "create-company":"建立公司",
+    "reset":"重置"
+}
